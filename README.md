@@ -1,4 +1,4 @@
-# 2023 DevConnect Hacker House
+# 2024 ICP Korea Hacker House
 
 ## Content
 - [Schedule](#schedule)
